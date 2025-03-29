@@ -53,7 +53,7 @@ This project focuses on analyzing sales data to extract meaningful insights, pre
 
 ✅ Automated sales reports
 
-3 🔮 Future Scope
+# 🔮 Future Scope
 
 . Integrating AI-based recommendation systems.
 
