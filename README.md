@@ -71,5 +71,6 @@ This project focuses on analyzing sales data to extract meaningful insights, pre
 
 . Online research papers and articles on sales analytics.
 
-👨‍💻 Contributors
+# 👨‍💻 Contributors
+
 Dharmesh Singh Choudhary--> https://github.com/Dharmu25
