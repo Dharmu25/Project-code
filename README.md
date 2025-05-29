@@ -23,8 +23,6 @@ This project focuses on analyzing sales data to extract meaningful insights, pre
 
 . Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-. Database: SQL / CSV files
-
 . Visualization: Power BI / Tableau
 
 . Version Control: GitHub
